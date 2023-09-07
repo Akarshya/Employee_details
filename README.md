@@ -27,7 +27,7 @@ Welcome to fullstack project! This project showcases the integration of a React.
 3. Similarly, navigate to the `backend` directory and run `npm install` to install backend dependencies.
 4. Set up your MongoDB connection by adding your MongoDB Atlas connection string to the backend configuration.
 5. In the `frontend` directory, run `npm start` to start the frontend development server.
-6. In the `backend` directory, run `npm start` to start the backend server.
+6. In the `backend` directory, run `npm run dev` to start the backend server.
 7. Open your web browser and go to `http://localhost:3000` to see the application in action!
 
 ## Contributions
