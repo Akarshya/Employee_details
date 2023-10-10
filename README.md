@@ -32,7 +32,7 @@ Welcome to fullstack project! This project showcases the integration of a React.
 
 ## Contributions
 
-We welcome contributions to this project! Whether you find a bug, want to add a new feature, or improve the documentation, your contributions are highly appreciated. Feel free to fork this repository, make your changes, and submit a pull request.
+Whether you find a bug, want to add a new feature, or improve the documentation, your contributions are highly appreciated. Feel free to fork this repository, make your changes, and submit a pull request.
 
 ## License
 
